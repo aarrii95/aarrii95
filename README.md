@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aarrii95.
-- 👀 I’m interested in MERN stack deveopment.
-- 🌱 I’m currently learning Mongodb, React, express, Nodejs.
+- 🌱 I’m currently learning Mongodb, React, Angular, express, Nodejs.
 - 💞️ I’m looking to collaborate on javascript based projects, but I'm open to learn new technologies as well.
 
 
