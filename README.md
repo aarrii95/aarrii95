@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aarrii95.
-- 🌱 I’m currently learning Mongodb, React, Angular, express, Nodejs.
+- 🌱 I’m currently developing full stack web apps with Mongodb, Angular, express and Nodejs.
 - 💞️ I’m looking to collaborate on javascript based projects, but I'm open to learn new technologies as well.
 
 
